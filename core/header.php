@@ -3,10 +3,11 @@
 
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="https://pro.auliasatriow.com/" />
   <meta name="keywords" content="<?php include('core/dina-keyword.php'); ?>">
+  <link rel="icon" href="assets/ca.jpg" type="image/jpg">
   <meta property="og:locale" content="id_ID" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="<?php include('core/judul.php'); ?>" />
@@ -22,10 +23,46 @@
   <meta name="twitter:description" content="<?php include('core/dina-desc.php'); ?>" />
 
   <title><?php include('core/judul.php'); ?></title>
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <noscript>
+    <link rel="stylesheet" href="assets/css/noscript.css" />
+  </noscript>
 
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body>
+<body class="is-preload">
+  <!-- Wrapper -->
+  <div id="wrapper">
+
+    <!-- Header -->
+    <header id="header">
+      <div class="inner">
+
+        <!-- Logo -->
+        <a href="index.html" class="logo">
+          <span class="symbol"><img src="assets/images/logo.svg" alt="" /></span><span class="title">Coderaulia</span>
+        </a>
+
+        <!-- Nav -->
+        <nav>
+          <ul>
+            <li><a href="#menu">Menu</a></li>
+          </ul>
+        </nav>
+
+      </div>
+    </header>
+
+    <!-- Menu -->
+    <nav id="menu">
+      <h2>Hello!</h2>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="influencer.html">Social Media Influencer</a></li>
+        <li><a href="business.html">Small Business</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>

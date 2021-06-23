@@ -1,6 +1,10 @@
 RewriteEngine on
 
 RewriteRule ^index.html$ index.php?mod=home [L]
+RewriteRule ^portfolio.html$ index.php?mod=portfolio [L]
+RewriteRule ^business.html$ index.php?mod=business [L]
+RewriteRule ^contact.html$ index.php?mod=contact [L]
+RewriteRule ^influencer.html$ index.php?mod=influencer [L]
 
 
 RewriteCond %{HTTPS} off
