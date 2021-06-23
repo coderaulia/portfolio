@@ -31,7 +31,7 @@
 				      </ul>
 				    </section>
 				    <ul class="copyright">
-				      <li>&copy; @Coderaulia. All rights reserved</li>
+				      <li>&copy; <a href="/">Coderaulia</a>. All rights reserved</li>
 				      <li><a href="http://html5up.net">Template</a></li>
 				    </ul>
 				  </div>
