@@ -1,9 +1,9 @@
 <div id="main">
   <div class="inner">
     <header>
-      <h1>This is Phantom, a free, fully responsive site<br />
-        template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-      <p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+      <h1>Hi! I'm Coderaulia, Web Designer <br />and Wordpress Developer</h1>
+      <p>I design and build beautiful websites for social media influencers & businesses around the globe. If you need a modern, SEO friendly and powerful website, send me an email. If we are a good fit, I will give you a time and cost estimate.</p>
+      <a href="portfolio.html" class="button primary">See My Work</a>
     </header>
   </div>
 </div>

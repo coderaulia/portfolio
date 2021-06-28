@@ -83,7 +83,7 @@
 
     <!-- Menu -->
     <nav id="menu">
-      <h2>Hello!</h2>
+      <h2>Coderaulia</h2>
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="portfolio.html">Portfolio</a></li>
