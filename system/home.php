@@ -1,4 +1,4 @@
-<div id="main">
+<main id="main">
   <div class="inner">
     <header>
       <h1>Hi! I'm Coderaulia, Web Designer <br />and Wordpress Developer.</h1>
@@ -14,7 +14,7 @@
           <a href="https://matapenanews.com" class="button primary small more">See this project</a>
         </div>
         <div class="col-6 col-12-medium">
-          <span class="image fit"><img src="assets/images/matapena.jpg" alt="" /></span>
+          <span class="image fit"><img src="assets/images/matapena.jpg" alt="Mata Pena News - Coderaulia" /></span>
         </div>
       </div>
     </section>
@@ -27,7 +27,7 @@
           <a href="https://roydanrekan.com" class="button primary small more">See this project</a>
         </div>
         <div class="col-6 col-12-medium">
-          <span class="image fit"><img src="assets/images/roydanrekan.jpg" alt="" /></span>
+          <span class="image fit"><img src="assets/images/roydanrekan.jpg" alt="Roy dan Rekan - Coderaulia" /></span>
         </div>
       </div>
     </section>
@@ -58,4 +58,4 @@
       </div>
     </section>
   </div>
-</div>
+</main>
