@@ -5,6 +5,7 @@ RewriteRule ^portfolio.html$ index.php?mod=portfolio [L]
 RewriteRule ^business.html$ index.php?mod=business [L]
 RewriteRule ^contact.html$ index.php?mod=contact [L]
 RewriteRule ^influencer.html$ index.php?mod=influencer [L]
+RewriteRule ^links.html$ index.php?mod=links [L]
 
 
 RewriteCond %{HTTPS} off
