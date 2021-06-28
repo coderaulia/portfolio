@@ -1,3 +1,31 @@
 .custom-section {
   padding: 6em 0 0 0;
 }
+
+@media screen and (min-width:768px) {
+
+  .works {
+    font-size: 26pt;
+    line-height: 1.9;
+    margin: 0;
+    letter-spacing: 5px;
+  }
+
+  .subtitle {
+    font-size: 12pt;
+    font-weight: 400;
+    margin: 120px 0 0 0;
+    line-height: 1.6
+  }
+}
+
+@media screen and (max-width:480px) {
+  .works {
+    font-size: 18pt;
+    margin: 0;
+  }
+
+  .more {
+    margin-bottom: 20px;
+  }
+}
