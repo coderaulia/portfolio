@@ -24,6 +24,7 @@
 			<h2>Follow</h2>
 			<ul class="icons">
 				<li><a href="https://instagram.com/coderaulia" class="icon brands style2 fa-instagram"><span class="label">Instagram</span></a></li>
+				<li><a href="https://twitter.com/coderaulia" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
 				<li><a href="https://dribbble.com/coderaulia" class="icon brands style2 fa-dribbble"><span class="label">Dribbble</span></a></li>
 				<li><a href="https://github.com/coderaulia" class="icon brands style2 fa-github"><span class="label">GitHub</span></a></li>
 				<li><a href="tel:+6285869268391" class="icon solid style2 fa-phone"><span class="label">Phone</span></a></li>

@@ -1,6 +1,6 @@
 <?php
 if (@$_GET['mod'] == "home") {
-  echo "Beautiful, SEO Friendly and Powerful Web Design for Business & Influcencer, feel free to reach me! &ndash; Coderaulia";
+  echo "Elegant, SEO Friendly and Powerful Web Design for Business & Influcencer, feel free to reach me! &ndash; Coderaulia";
 } elseif (@$_GET['mod'] == "login") {
   echo "Masuk | " . $site;
 } elseif (@$_GET['mod'] == "business") {
@@ -12,5 +12,5 @@ if (@$_GET['mod'] == "home") {
 } elseif (@$_GET['mod'] == "influencer") {
   echo "I do Professional Web Design for Influencer &ndash; Coderaulia";
 } else {
-  echo "Coderaulia &ndash; Beautiful, SEO Friendly and Powerful Web Design for Business & Influcencer";
+  echo "Coderaulia &ndash; Elegant, SEO Friendly and Powerful Web Design for Business & Influcencer";
 }
