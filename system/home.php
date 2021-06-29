@@ -54,6 +54,7 @@
         <div class="col-7 col-12-medium">
           <h3>If you need...</h3>
           <p>If you need a modern and powerful website for your business, startup or personally, I am available for work. You can email me directly at <a href="mailto:hi@auliasatriow.com">hi@auliasatriow.com</a>.</p>
+          <a href="mailto:hi@auliasatriow.com" class="button">Free Consultation</a>
         </div>
       </div>
     </section>

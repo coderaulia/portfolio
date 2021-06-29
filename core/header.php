@@ -5,8 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel="canonical" href="<?php include('core/links.php'); ?>" />
+  <link rel="canonical" href="https://pro.auliasatriow.com" />
   <meta name="keywords" content="<?php include('core/dina-keyword.php'); ?>">
+  <meta name="description" content="<?php include('core/dina-desc.php'); ?>">
   <link rel="icon" href="assets/images/ca.png" type="image/png">
   <meta property="og:locale" content="id_ID" />
   <meta property="og:type" content="website" />
@@ -31,15 +32,18 @@
 
   <link rel="stylesheet" href="assets/css/style.css">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LM7SXG26WQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LM7SXG26WQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-LM7SXG26WQ');
-</script>
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-LM7SXG26WQ');
+  </script>
 
   <!-- Facebook Pixel Code -->
   <script>
@@ -78,7 +82,7 @@
 
         <!-- Logo -->
         <a href="index.html" class="logo">
-          <span class="symbol"><img src="assets/images/logo.svg" alt="" /></span><span class="title">Coderaulia</span>
+          <span class="symbol"><img src="assets/images/logo.svg" alt="Coderaulia" /></span><span class="title">Coderaulia</span>
         </a>
 
         <!-- Nav -->
