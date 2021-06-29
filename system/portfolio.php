@@ -47,9 +47,11 @@
       <hr>
       <div class="box alt">
         <div class="row gtr-uniform">
-
           <div class="col-4 col-12-medium"><span class="image fit"><img src="assets/images/matapena.jpg" alt="Mata Pena News" /></span>
             <p><strong>Mata Pena News</strong> website - <a href="https://matapenanews.com/" target="_blank">Live Site</a></p>
+          </div>
+          <div class="col-4 col-12-medium"><span class="image fit"><img src="assets/images/blog.jpg" alt="Shut up and Read" /></span>
+            <p><strong>Personal Blog</strong> - <a href="https://auliasatriow.com/" target="_blank">Live Site</a></p>
           </div>
         </div>
       </div>
@@ -74,10 +76,10 @@
       <div class="box alt">
         <div class="row gtr-uniform">
           <div class="col-4 col-12-medium"><span class="image fit"><img src="assets/images/assessment.jpg" alt="Assessment App" /></span>
-            <p><strong>Assessment App</strong>- <a href="https://app.rumahpsikologimahanani.com/" target="_blank">Live Site</a></p>
+            <p><strong>Assessment App</strong> - <a href="https://app.rumahpsikologimahanani.com/" target="_blank">Live Site</a></p>
           </div>
           <div class="col-4 col-12-medium"><span class="image fit"><img src="assets/images/dosen-app.jpg" alt="Direktori Publikasi Dosen App" /></span>
-            <p><strong>Direktori Publikasi Dosen</strong> -Web-App - <a href="https://psikologi.unnes.ac.id/dosen" target="_blank">Live Site</a></p>
+            <p><strong>Direktori Publikasi Dosen</strong> Web-App - <a href="https://psikologi.unnes.ac.id/dosen" target="_blank">Live Site</a></p>
           </div>
         </div>
       </div>

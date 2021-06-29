@@ -70,6 +70,22 @@
   </script>
   <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2960606820863612&ev=PageView&noscript=1" /></noscript>
   <!-- End Facebook Pixel Code -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Person",
+      "name": "Coderaulia - Aulia Satrio Wibowo",
+      "url": "https://pro.auliasatriow.com/",
+      "image": "",
+      "sameAs": [
+        "https://www.youtube.com/channel/UCnIp59QJ1yY3Gorb7NANmTQ",
+        "https://github.com/coderaulia",
+        "https://auliasatriow.com",
+        "https://instagram.com/coderaulia"
+      ],
+      "jobTitle": "Web Designer & Wordpress Developer"
+    }
+  </script>
 </head>
 
 <body class="is-preload">

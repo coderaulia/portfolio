@@ -11,7 +11,7 @@
           <h2 class="subtitle">My Latest Work</h2>
           <h4 class="works">News Website</h4>
           <p>A full website design & development for a news media company. I have build this website with Wordpress Extra Theme</p>
-          <a href="https://matapenanews.com" class="button primary small more">See this project</a>
+          <a href="https://matapenanews.com" class="button small">See this project</a>
         </div>
         <div class="col-6 col-12-medium">
           <span class="image fit"><img src="assets/images/matapena.jpg" alt="Mata Pena News - Coderaulia" /></span>
@@ -24,7 +24,7 @@
           <h2 class="subtitle">My Latest Work</h2>
           <h4 class="works">Lawyer Website</h4>
           <p>A full website design & development for a law company website. I have build this website with Divi theme Wordpress</p>
-          <a href="https://roydanrekan.com" class="button primary small more">See this project</a>
+          <a href="https://roydanrekan.com" class="button small">See this project</a>
         </div>
         <div class="col-6 col-12-medium">
           <span class="image fit"><img src="assets/images/roydanrekan.jpg" alt="Roy dan Rekan - Coderaulia" /></span>
@@ -34,7 +34,7 @@
     <section class="custom-section">
       <div class="row">
         <div class="col-5 col-12-medium">
-          <h2>What I do?</h2>
+          <h2 class="works">What I do?</h2>
         </div>
         <div class="col-7 col-12-medium">
           <h3>Design</h3>
@@ -49,7 +49,7 @@
     <section class="custom-section">
       <div class="row">
         <div class="col-5 col-12-medium">
-          <h2>Want to work?</h2>
+          <h2 class="works">Want to work?</h2>
         </div>
         <div class="col-7 col-12-medium">
           <h3>If you need...</h3>
