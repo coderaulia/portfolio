@@ -2,23 +2,10 @@
 <footer id="footer">
 	<div class="inner">
 		<section>
-			<h2>Get in touch</h2>
-			<form method="post" action="#">
-				<div class="fields">
-					<div class="field half">
-						<input type="text" name="name" id="name" placeholder="Name" />
-					</div>
-					<div class="field half">
-						<input type="email" name="email" id="email" placeholder="Email" />
-					</div>
-					<div class="field">
-						<textarea name="message" id="message" placeholder="Message"></textarea>
-					</div>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send" class="primary" /></li>
-				</ul>
-			</form>
+			<h2>Coderaulia</h2>
+			<p>A psychology graduate who is stuck being a full time <strong>web developer</strong>.<br />
+				I have more than <strong>5 years experience</strong> in web development. Mainly using LAMP Stack, Wordpress, Codeigniter, and currently learning MERN Stack.<br />
+				Feel free to <strong>reach me</strong> for some cool projects!</p>
 		</section>
 		<section>
 			<h2>Follow</h2>
