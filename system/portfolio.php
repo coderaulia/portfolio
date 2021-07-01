@@ -38,6 +38,9 @@
           <div class="col-4 col-12-medium"><span class="image fit"><img src="assets/images/kavlingbamboo.jpg" alt="Kavling Bamboo Garden Village" /></span>
             <p><strong>Kavling Bamboo Garden Village</strong> landing page - <a href="https://kavlingbamboogarden.web.id/" target="_blank">Live Site</a></p>
           </div>
+          <div class="col-4 col-12-medium"><span class="image fit"><img src="assets/images/copywriter.jpg" alt="Professional Copywriter" /></span>
+            <p><strong>Professional Copywriter</strong> demo landing page - <a href="https://littlebox.xyz/copywriter" target="_blank">Live Site</a></p>
+          </div>
         </div>
       </div>
     </section>
