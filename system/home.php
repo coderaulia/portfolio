@@ -8,10 +8,10 @@
          <a href="portfolio.html" class="button primary">See My Work</a> <a href="mailto:hi@auliasatriow.com"
             class="button">Free Consultation</a>
       </header>
-      <section class="custom-section">
-         <div class="row">
+      <section class="about">
+         <div class="row" style="padding-bottom:2em">
             <div class="col-6 col-12-medium">
-               <h1>About me...</h1>
+               <h2>About me...</h2>
                <p>My name is Aulia, a fulltime Web Developer from Bogor, Indonesia. I have more than 5 years experiences in web development. And done some cool projects (you can find on <a href="portfolio.html" target="_blank">my portfolio </a>page).</p>
             </div>
             <div class="col-6 col-12-medium">
@@ -26,9 +26,12 @@
                   <li><a href="https://wordpress.org" class="icon brands style2 fa-wordpress"><span class="label">Wordpress</span></a></li>
                   <li><a href="https://elementor.com" class="icon brands style2 fa-elementor"><span class="label">Elementor</span></a></li>
                   <li><a href="https://figma.com" class="icon brands style2 fa-figma"><span class="label">Figma</span></a></li>
+                  <li><a href="https://laravel.com" class="icon brands style2 fa-laravel"><span class="label">Laravel</span></a></li>
                </ul>
             </div>
          </div>
+         <hr>
+
       </section>
       <section class="custom-section">
          <div class="row">
@@ -58,6 +61,7 @@
             </div>
          </div>
       </section>
+      <hr>
       <section class="custom-section">
          <div class="row">
             <div class="col-5 col-12-medium">
